@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shivale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://wakatime.com/@018cf2a8-e28b-4f1f-987e-3306eb2a1da7"><img src="https://wakatime.com/badge/user/018cf2a8-e28b-4f1f-987e-3306eb2a1da7.svg" alt="Total time coded since Jan 10 2024" /></a> <img src="https://komarev.com/ghpvc/?username=itsabhishekshivale&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhishekshivale" /> </p>
+<p align="left"> <img src="https://wakatime.com/badge/user/018cf2a8-e28b-4f1f-987e-3306eb2a1da7.svg" alt="Total time coded since Jan 10 2024" /></a> <img src="https://komarev.com/ghpvc/?username=itsabhishekshivale&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhishekshivale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-shivale" alt="abhishek-shivale" /></a> </p>
 
