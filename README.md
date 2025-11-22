@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate software developer focused on building efficient, large-scale solutions that solve real-world problems. I'm a fast-paced learner, always eager to explore new technologies and methodologies.<br><br>💬 Ask me about: Node.js, Backend Development, and System Design
+Hi, I am Abhishek Shivale. A passionate software developer focused on building efficient, large-scale solutions that solve real-world problems. I'm a fast-paced learner, always eager to explore new technologies and methodologies.<br><br>💬 Ask me about: Node.js, Backend Development, and System Design
 
 
 ## 🌐 Socials:
