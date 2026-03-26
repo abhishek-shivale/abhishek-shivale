@@ -1,11 +1,58 @@
-# 💫 About Me:
-Hi, I am Abhishek Shivale. A passionate software developer focused on building efficient, large-scale solutions that solve real-world problems. I'm a fast-paced learner, always eager to explore new technologies and methodologies.<br><br>💬 Ask me about: Node.js, Backend Development, and System Design
+## About
 
+I'm Abhishek (blackpearl). I fix and build things. Mostly backend — Node.js for now, switching to Rust. Learning Web3 on the side.
+Into books, web-novels, trading, and ranting about philosophy when the code doesn't compile.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhishekshivale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-shivale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekshivale21@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My Socials
 
+**X** — https://x.com/abhishekwinn  
+**LinkedIn** — https://www.linkedin.com/in/abhishek-shivale/  
+**Github** — https://github.com/abhishek-shivale  
+**Portfolio** — https://abhishek.win
+
+---
+
+## WHAT I AM WORKING ON NOW?
+
+*(coming soon)*
+
+---
+
+## Some Recent Works
+
+**sketch** — https://github.com/abhishek-shivale/sketch  
+*(description coming)*
+
+**video_streaming** — https://github.com/abhishek-shivale/video_streaming  
+Scalable cloud-native video transcoding pipeline. TurboRepo + NestJS + BullMQ + Docker.
+
+**novel-hunter** — https://github.com/abhishek-shivale/novel-hunter  
+Web scraper that pulls novel rankings, chapter lists, and content from reading sites.
+
+**tinyurl** — https://github.com/abhishek-shivale/tinyurl  
+URL shortener with custom slugs, password protection, and click tracking.
+
+**nextjs-starter** — https://github.com/abhishek-shivale/nextjs-starter  
+Next.js starter template for building scalable web apps fast.
+
+---
+
+## Actively Contributing
+
+*(coming soon)*
+
+---
+
+## Languages & Frameworks
+
+`Rust` `TypeScript` `JavaScript` `Node.js` `NestJS` `Express.js`
+
+## Databases & Infra
+
+`PostgreSQL` `MongoDB` `ScyllaDB` `ClickHouse` `Kafka` `gRPC` `WebRTC` `Docker`
+
+---
+
+**feel free to reach out.**
