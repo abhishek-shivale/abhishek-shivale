@@ -16,14 +16,15 @@ Into books, web-novels, trading, and ranting about philosophy when the code does
 
 ## WHAT I AM WORKING ON NOW?
 
-*(coming soon)*
+**oraboraus** - https://github.com/abhishek-shivale/oraboraus
+DSL(Domain specific Language) for Trading systems built with Rust
 
 ---
 
 ## Some Recent Works
 
 **sketch** — https://github.com/abhishek-shivale/sketch  
-*(description coming)*
+Real-time collaborative drawing server built with Rust, Axum, and Tokio
 
 **video_streaming** — https://github.com/abhishek-shivale/video_streaming  
 Scalable cloud-native video transcoding pipeline. TurboRepo + NestJS + BullMQ + Docker.
