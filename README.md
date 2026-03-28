@@ -16,7 +16,7 @@ Into books, web-novels, trading, and ranting about philosophy when the code does
 
 ## WHAT I AM WORKING ON NOW?
 
-**oraboraus** - https://github.com/abhishek-shivale/oraboraus
+**oraboraus** — https://github.com/abhishek-shivale/oraboraus                                        
 DSL(Domain specific Language) for Trading systems built with Rust
 
 ---
