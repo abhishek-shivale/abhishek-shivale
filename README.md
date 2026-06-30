@@ -9,7 +9,6 @@ Into books, web-novels, trading, and ranting about philosophy when the code does
 
 **X** — https://x.com/abhishekwinn  
 **LinkedIn** — https://www.linkedin.com/in/abhishek-shivale/  
-**Github** — https://github.com/abhishek-shivale  
 **Portfolio** — https://abhishek.win
 
 ---
@@ -18,6 +17,22 @@ Into books, web-novels, trading, and ranting about philosophy when the code does
 
 **oraboraus** — https://github.com/abhishek-shivale/oraboraus                                        
 DSL(Domain specific Language) for Trading systems built with Rust
+
+---
+
+## Solana Work
+
+**cassie** - https://github.com/abhishek-shivale/cassie
+Optimistic Oracle on solana - Repetition weighted.
+
+**Stele** - https://github.com/abhishek-shivale/stele
+Stele is a permissionless protocol on Solana for permanently publishing accounts of real-world events.
+
+**Turbin3 Assignment** - https://github.com/abhishek-shivale/turbin3-assignment
+all turbin3 assignment.
+
+**Time Based Vault** - https://github.com/abhishek-shivale/time_base_vault
+vault that based on time
 
 ---
 
@@ -42,13 +57,14 @@ Next.js starter template for building scalable web apps fast.
 
 ## Actively Contributing
 
-*(coming soon)*
+**ChronoGrapher** - https://github.com/GitBrincie212/ChronoGrapher
+Powerful, developer-experience centric, blazingly fast and extensible job scheduler and workflow orchestration platform.
 
 ---
 
 ## Languages & Frameworks
 
-`Rust` `TypeScript` `JavaScript` `Node.js` `NestJS` `Express.js`
+`Rust` `TypeScript` `JavaScript` `Node.js` `NestJS` `Express.JS` `Next.JS`
 
 ## Databases & Infra
 
