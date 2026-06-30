@@ -22,16 +22,16 @@ DSL(Domain specific Language) for Trading systems built with Rust
 
 ## Solana Work
 
-**cassie** - https://github.com/abhishek-shivale/cassie
+**cassie** - https://github.com/abhishek-shivale/cassie  
 Optimistic Oracle on solana - Repetition weighted.
 
-**Stele** - https://github.com/abhishek-shivale/stele
+**Stele** - https://github.com/abhishek-shivale/stele  
 Stele is a permissionless protocol on Solana for permanently publishing accounts of real-world events.
 
-**Turbin3 Assignment** - https://github.com/abhishek-shivale/turbin3-assignment
+**Turbin3 Assignment** - https://github.com/abhishek-shivale/turbin3-assignment  
 all turbin3 assignment.
 
-**Time Based Vault** - https://github.com/abhishek-shivale/time_base_vault
+**Time Based Vault** - https://github.com/abhishek-shivale/time_base_vault  
 vault that based on time
 
 ---
