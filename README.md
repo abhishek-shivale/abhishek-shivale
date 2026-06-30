@@ -29,10 +29,10 @@ Optimistic Oracle on solana - Repetition weighted.
 Stele is a permissionless protocol on Solana for permanently publishing accounts of real-world events.
 
 **Turbin3 Assignment** - https://github.com/abhishek-shivale/turbin3-assignment  
-all turbin3 assignment.
+All turbin3 assignment.
 
 **Time Based Vault** - https://github.com/abhishek-shivale/time_base_vault  
-vault that based on time
+Vault that based on time
 
 ---
 
