@@ -57,7 +57,7 @@ Next.js starter template for building scalable web apps fast.
 
 ## Actively Contributing
 
-**ChronoGrapher** - https://github.com/GitBrincie212/ChronoGrapher
+**ChronoGrapher** - https://github.com/GitBrincie212/ChronoGrapher  
 Powerful, developer-experience centric, blazingly fast and extensible job scheduler and workflow orchestration platform.
 
 ---
