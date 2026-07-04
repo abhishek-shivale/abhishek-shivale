@@ -1,3 +1,6 @@
+# ONLY FOCUS (FOCUS MODE)
+If you want to contact me please you use following social -  discord (abhishekshivale)  or mail (abhishekshivale45@gmail.com). 
+
 ## About
 
 I'm Abhishek (blackpearl). I fix and build things. Mostly backend — Node.js for now, switching to Rust. Learning Web3 on the side.
