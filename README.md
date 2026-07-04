@@ -25,7 +25,10 @@ DSL(Domain specific Language) for Trading systems built with Rust
 
 ## Solana Work
 
-**cassie** - https://github.com/abhishek-shivale/cassie  
+**Sol-keymgr** - https://github.com/abhishek-shivale/sol-keymgr   
+Next generation keymanager includes encription and good dx.
+
+**Cassie** - https://github.com/abhishek-shivale/cassie  
 Optimistic Oracle on solana - Repetition weighted.
 
 **Stele** - https://github.com/abhishek-shivale/stele  
