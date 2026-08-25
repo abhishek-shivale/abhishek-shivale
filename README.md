@@ -1,6 +1,6 @@
-# ONLY FOCUS (FOCUS MODE)
+<!-- # ONLY FOCUS (FOCUS MODE)
 If you want to contact me please use following social -  discord (abhishekshivale)  or mail (abhishekshivale01@gmail.com). sorry for inconvenience i am not availble on other social till focus mode ends. 
-
+-->
 ## About
 
 I'm Abhishek (blackpearl). I fix and build things. Mostly backend — Node.js for now, switching to Rust. Learning Web3 on the side.
