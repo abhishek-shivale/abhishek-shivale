@@ -3,7 +3,7 @@ If you want to contact me please use following social -  discord (abhishekshival
 -->
 ## About
 
-I'm Abhishek (blackpearl). I fix and build things. Mostly backend — Node.js for now, switching to Rust. Learning Web3 on the side.
+I'm Abhishek (blackpearl). I fix and build things. Mostly backend — Rust, JavaScript and TypeScript. Solana Developer.
 Into books, web-novels, trading, and ranting about philosophy when the code doesn't compile.
 
 ---
